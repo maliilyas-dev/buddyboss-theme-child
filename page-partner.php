@@ -79,7 +79,7 @@ section.partner-page > div > h2 {
 </style>
          <section class="partner-page">
                 <div class="search"><?php echo do_shortcode('[wd_asp id=1]');?></div>
-                <div class="test">This is custom branch settings</div>
+                <div class="test">This is custom branch</div>
                 <div class="app-page">
                 <img class="mobile" src="https://efcnetwork.com.au/wp-content/uploads/2021/04/cropped-EFC-NetworkLogo.png" width="40">
                 </div>
