@@ -1,0 +1,2 @@
+# buddyboss-theme-child
+ 

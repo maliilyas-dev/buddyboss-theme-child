@@ -1,0 +1,73 @@
+/*--------------------------------------------------------------
+This is your custom stylesheet.
+
+Add your own styles here to make theme updates easier.
+To override any styles from other stylesheets, simply copy them into here and edit away.
+
+Make sure to respect the media queries! Otherwise you may
+accidentally add desktop styles to the mobile layout.
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+--------------------------------------------------------------*/
+
+
+
+.comments-area{
+    display:none;	
+   }
+   .row.custom-row {
+    margin-top: 15px;
+}
+   h1.custom-heading{
+       margin: 0px;
+       font-weight: bold;
+       font-size:22px
+   }
+   a.view-all {
+    background: #000000;
+    color: #ffffff;
+    padding: 8px 12px;
+    font-weight: bold;
+}
+h2.post-heading {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px 10px;
+    width: 254px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+.post-content {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    color: black;
+    margin-bottom: 5px;
+    padding: 0px 10px;
+    width: 254px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+.post-meta {
+    font-weight: bold;
+    font-size: 10px;
+    margin-bottom: 0px;
+    padding: 0px 10px;
+}
+.post-box {
+    background: #ffffff;
+    box-shadow: 0px 0px 8px #d8d8d8;
+}
+.padd-right{
+    padding-right: 13px;
+}
+.padd-right:last-child{
+    padding-right: 0px;
+}
+a.post-link img {
+    max-height: 171px !important;
+    object-fit: cover;
+    position: relative;
+}
